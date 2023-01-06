@@ -1,8 +1,9 @@
-#JavaScript Linked List
+<h1>JavaScript Linked List</h1>
+
 This is an implementation of a singly linked list written in JavaScript as part of The Odin Project: 
 https://www.theodinproject.com/lessons/javascript-linked-lists
 
-Methods
+<h3>Methods</h3>
 The following methods are implemented:
 
 append(value) - adds a node with the given value to the end of the list.
